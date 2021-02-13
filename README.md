@@ -1,3 +1,5 @@
+[![](https://img.shields.io/badge/PDF-Download-green?style=flat-square)](https://github.com/sladkoff/resume/releases/download/2021-02-13/leonid_koftun_resume.pdf)
+
 # Leonid Koftun
 
 +4917641601670 | [leonid.koftun@gmail.com](mailto:leonid.koftun@gmail.com) | English | German | Russian | French
