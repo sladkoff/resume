@@ -1,4 +1,5 @@
-[![](https://img.shields.io/badge/PDF-Download-green?style=flat-square)](https://github.com/sladkoff/resume/releases/download/2021-02-13/leonid_koftun_resume.pdf)
+[![](https://img.shields.io/badge/PDF-Download-green?style=flat-square)](https://github.com/sladkoff/resume/releases/download/2021-02-13/leonid_koftun_resume.pdf) &nbsp; [![](https://img.shields.io/badge/leonidkoftun-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonid-koftun/) &nbsp; [![](https://img.shields.io/badge/sladkovik-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sladkovik) &nbsp; [![](https://img.shields.io/badge/sladkoff2-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sladkoff2/)
+
 
 # Leonid Koftun
 
