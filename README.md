@@ -3,7 +3,7 @@
 
 # Leonid Koftun
 
-+4917641601670 | [leonid.koftun@gmail.com](mailto:leonid.koftun@gmail.com) | English | German | Russian | French
+[leonid.koftun@gmail.com](mailto:leonid.koftun@gmail.com) // from Munich, Bavaria // speaks English, German, Russian and French
 
 ## Professional Experience
 
