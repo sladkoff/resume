@@ -27,16 +27,15 @@
 
 ### Werner-von-Siemens Gymnasium, _Munich, July 2013_
 
-Higher education entrance qualification / BAC
-Final Grade: 2.7
+Higher education entrance qualification / BAC (Final Grade: 2.7)
 
 ### Ludwig-Maximilians-Universität, _Munich, September 2013 - August 2015_
 
-B. Sc. Informatik (partial)
+B. Sc. Computer Science (partial)
 
 ### Wilhelm-Büchner-Fernhochschule, _September 2016 - present_
 
-B. Sc. Informatik (partial)
+B. Sc. Computer Science (partial)
 
 ## Interests
 
