@@ -9,11 +9,15 @@
 
 ### Software Engineer - Device Insight GmbH, _Munich, December 2017 - present_
 
-- Implemented features for an automotive IoT Platform. Led ticket estimations and designed components for a large microservice architecture. Performed rolling update deployments and complex migrations. Shaped the logging landscape of the platform by migrating away from Graylog to Grafana Loki and organizing company-wide trainings for the subject. Provided third level customer support and responded to incidents. (Java 11, Kotlin, Kubernetes, Docker, Helm, Cassandra, Postgres, Flyway, Elasticsearch, Maven, Jenkins, Cucumber, Spring Boot, Kafka, Azure AKS, Prometheus, Grafana)
-- Took over a legacy building management system for maintenance and established a modern development environment and process. Introduced a monitoring stack for the QA environment to identify and fix existing performance issues. (Gitlab CI/CD, Windows Server, Oracle DB, Java 11, Hibernate, Spring, Wildfly, Prometheus, Grafana)
-- Developed popular open source CLI “kafkactl” as a more user-friendly alternative to the default Apache Kafka command line tools (Golang, Github Actions, Kafka)
-- Evaluated relevant Microsoft Azure cloud components for a field test IoT project. Designed Microsoft IoT Central interfaces to integrate with Azure Sphere Devices and created dashboards for the field test end-users. Implemented and deployed Azure Functions to enhance the solution with custom features. Created Infrastructure-as-Code tooling to configure Azure resources from a CI/CD pipeline. (Azure IoT Central, Azure IoT Hub, Azure Functions, Typescript, Node JS, Webpack, Gitlab CI/CD, az CLI)
-- Led a project through the pre-sales stage, defining requirements and estimating large work packages for a customer offer. (Requirements Engineering, Azure IoT Hub, Azure Timeseries Insights, Azure Cosmos DB, Azure Functions)
+- Delivered features for more than five Industrial IoT projects in the sectors: Automotive, Building Management and Energy Optimization.
+- Designed, developed, tested and maintained micro- and nano-services for real-time data processing use-cases. (Java, Kotlin, Spring Boot, Kafka, Docker, Kubernetes, AKS, Postgres, Cassandra, Azure Functions, Azure Event Hubs, Typescript)
+- Enabled faster release cycles by establishing continuous deployment pipelines. (Gitlab CI, Github Actions, Flux CD, IaC, GitOps)
+- Led designs for distributed software components, systems and features.
+- Ensured availability of services and infrastructure by resolving incidents while on-call. (Grafana, Prometheus, Splunk)
+
+### Freelance Software Engineer - _March 2013 - present_
+
+- Designed, implemented and launched a MVP for a Cloud-based childcare management software. (Digital Ocean Cloud, Kubernetes, Auth0, Stripe, Sendgrid, Next.js, NestJS, TypeScript, TypeORM, Flux CD, Cypress)
 
 ### Software Developer - SUBSEQ.NET GmbH, _Munich, October 2013 - November 2017_
 
@@ -39,4 +43,4 @@ B. Sc. Computer Science (partial)
 
 ## Interests
 
-Weight lifting, gardening, pour art, hiking, swimming, 3D printing, DIY, cars, mental health, cooking, music
+Weight lifting, gardening, pour art, hiking, swimming, 3D printing, DIY, cars, mental health, cooking, music, poker
