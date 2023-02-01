@@ -37,7 +37,7 @@ Higher education entrance qualification / BAC (Final Grade: 2.7)
 
 B. Sc. Computer Science (partial)
 
-### Wilhelm-Büchner-Fernhochschule, _September 2016 - present_
+### Wilhelm-Büchner-Fernhochschule, _September 2016 - 2019_
 
 B. Sc. Computer Science (partial)
 
