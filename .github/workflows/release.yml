@@ -15,9 +15,9 @@ jobs:
       - name: Remove swag line
         run: sed -i '1d' README.md
       - name: Build PDF from Markdown
-        uses: BaileyJM02/markdown-to-pdf@v1
+        uses: BaileyJM02/markdown-to-pdf@v1.2.0
         with:
-          input_dir: .
+          input_path: README.md
           output_dir: out
       - name: Rename pdf
         run: cp out/README.pdf ./leonid_koftun_resume.pdf
