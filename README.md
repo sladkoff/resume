@@ -9,7 +9,7 @@ Proficient in requirements gathering, architecture planning, and leading cross-f
 
 ## Professional Experience
 
-### Freelance Software Engineer - Kigana - _March 2021 - present_
+### Founder - Kigana - _March 2021 - present_
 
 - Designed, implemented and launched an MVP for a cloud-based childcare management software (Next.js, NestJS, React Native, AWS Lambda, AWS DynamoDB, AWS S3, Auth0, Stripe, Cypress)
 - Managed the product requirements, roadmap and priorities in close collaboration with customers (Requirements Engineering, Product Management, Kanban)
