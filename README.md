@@ -46,7 +46,3 @@ B. Sc. Computer Science (partial)
 ### Wilhelm-Büchner-Fernhochschule, _September 2016 - 2021_
 
 B. Sc. Computer Science (partial)
-
-## Interests
-
-Weight lifting, gardening, pour art, hiking, swimming, 3D printing, DIY, cars, mental health, cooking, music, poker
