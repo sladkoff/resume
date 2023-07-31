@@ -11,7 +11,7 @@ Proficient in requirements gathering, architecture planning, and leading cross-f
 
 ### Founder - Kigana - _March 2021 - present_
 
-- Designed, implemented and launched an MVP for a cloud-based childcare management software (Next.js, NestJS, React Native, AWS Lambda, AWS DynamoDB, AWS S3, Auth0, Stripe, Cypress)
+- Designed, implemented and launched a cloud-based childcare management software (Next.js, NestJS, React Native, AWS Lambda, AWS DynamoDB, AWS S3, Auth0, Stripe, Cypress)
 - Managed the product requirements, roadmap and priorities in close collaboration with customers (Requirements Engineering, Product Management, Kanban)
 
 ### Technical Lead - Device Insight GmbH, _Munich, March 2022 - present_
