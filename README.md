@@ -11,14 +11,19 @@ Proficient in requirements gathering, architecture planning, and leading cross-f
 
 ### Freelance Software Engineer - Kigana - _March 2021 - present_
 
-- Designed, implemented and launched an MVP for a cloud-based childcare management software (Next.js, NestJS, React Native, AWS Lambda, AWS DynamoDB, Kubernetes, Auth0, Stripe, Cypress)
-- Managed the product requirements, roadmap and priorities in close collaboration with stakeholders (Requirements Engineering, Product Management, Kanban)
+- Designed, implemented and launched an MVP for a cloud-based childcare management software (Next.js, NestJS, React Native, AWS Lambda, AWS DynamoDB, AWS S3, Auth0, Stripe, Cypress)
+- Managed the product requirements, roadmap and priorities in close collaboration with customers (Requirements Engineering, Product Management, Kanban)
 
-### Software Engineer - Device Insight GmbH, _Munich, December 2017 - present_
+### Technical Lead - Device Insight GmbH, _Munich, March 2022 - present_
 
-- Delivered more than five Industrial IoT projects in the sectors: Automotive, Building Management and Energy Optimization.
-- Designed event-driven microservice architectures on the Azure Cloud (Azure Functions, Cosmos DB, NodeJS, Typescript, Azure Event Hubs, IaC, Kubernetes, Kafka, Cassandra, Kotlin, Serverless)
 - Worked closely with stakeholders, collecting, refining and documenting requirements for new IoT Systems (Requirements Engineering, Kanban)
+- Facilitated technical discussions and decisions, ensuring alignment in Agile team (Technical Leadership, Architecture)
+- Trained and mentored developers, helping them to grow their skills and advance their careers (Mentoring, Pair Programming)
+
+### Software Engineer - Device Insight GmbH, _Munich, December 2017 - February 2022_
+
+- Delivered more than five Industrial IoT projects in the sectors: Automotive, Asset Management and Energy Optimization.
+- Designed event-driven microservice architectures on the Azure Cloud (Azure Functions, Cosmos DB, NodeJS, Typescript, Azure Event Hubs, IaC, Kubernetes, Kafka, Cassandra, Kotlin, Serverless)
 - Innovated deployment and development processes by introducing tools and methodologies (Flux CD, Renovate, Storybook, Durable Functions)
 
 ### Software Developer - SUBSEQ.NET GmbH, _Munich, October 2013 - November 2017_
