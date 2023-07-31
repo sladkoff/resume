@@ -2,8 +2,8 @@
 
 # Leonid Koftun
 
-Software engineer and architect with 10 years of experience in building distributed cloud applications, 
-looking to deliver value to end-users and shape future-proof architectures.
+Highly skilled Full-Stack Software Engineer and Technical Lead with 10 years of cloud-based application development experience. 
+Proficient in requirements gathering, architecture planning, and leading cross-functional teams for optimal solutions.
 
 [leonid.koftun@gmail.com](mailto:leonid.koftun@gmail.com) // from Munich, Bavaria // speaks English, German, Russian and French
 
