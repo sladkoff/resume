@@ -23,14 +23,14 @@ Proficient in requirements gathering, architecture planning, and leading cross-f
 ### Software Engineer - Device Insight GmbH, _Munich, December 2017 - February 2022_
 
 - Delivered more than five Industrial IoT projects in the sectors: Automotive, Asset Management and Energy Optimization.
-- Designed event-driven microservice architectures on the Azure Cloud (Azure Functions, Cosmos DB, NodeJS, Typescript, Azure Event Hubs, IaC, Kubernetes, Kafka, Cassandra, Kotlin, Serverless)
+- Developed event-driven microservice architectures on the Azure Cloud (Azure Functions, Cosmos DB, NodeJS, Typescript, Azure Event Hubs, IaC, Kubernetes, Kafka, Cassandra, Kotlin, Serverless)
 - Innovated deployment and development processes by introducing tools and methodologies (Flux CD, Renovate, Storybook, Durable Functions)
 
 ### Software Developer - SUBSEQ.NET GmbH, _Munich, October 2013 - November 2017_
 
-- Created, launched and maintained multiple web apps: “insta.vote” (online polls), “ipwatch.dog” (dynamic DNS), “nxt.is” (URL shortener) (Java, Spring Boot, Ebean ORM, Postgres, Vue JS)
-- Led the rewrite of the legacy Android app “fishpixl” and launched it successfully to the Google Play Store (React Native, Android, Redux)
-- Designed reusable modules for an internal framework, enabling rapid bootstrapping of new apps (Spring Boot, Postgres, Ebean ORM, Maven, Javascript)
+- Created, published and maintained multiple web apps: “insta.vote” (online polls), “ipwatch.dog” (dynamic DNS), “nxt.is” (URL shortener) (Java, Spring Boot, Ebean ORM, Postgres, Vue JS)
+- Led the rewrite of the legacy Android app “fishpixl” and introduced it successfully to the Google Play Store (React Native, Android, Redux)
+- Prepared reusable modules for an internal framework, enabling rapid bootstrapping of new apps (Spring Boot, Postgres, Ebean ORM, Maven, Javascript)
 - Maintained the development infrastructure including Docker Cloud, ELK Stack, Prometheus, Grafana, Gitlab CE, Linux. 
 
 ## Education 
