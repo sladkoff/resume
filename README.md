@@ -9,16 +9,16 @@ Proficient in requirements gathering, architecture planning, and leading cross-f
 
 ## Professional Experience
 
-### Founder - Kigana - _March 2021 - present_
-
-- Designed, implemented and launched a cloud-based childcare management software (Next.js, NestJS, React Native, AWS Lambda, AWS DynamoDB, AWS S3, Auth0, Stripe, Cypress)
-- Managed the product requirements, roadmap and priorities in close collaboration with customers (Requirements Engineering, Product Management, Kanban)
-
 ### Technical Lead - Device Insight GmbH, _Munich, March 2022 - present_
 
 - Worked closely with stakeholders, collecting, refining and documenting requirements for new IoT Systems (Requirements Engineering, Kanban)
 - Facilitated technical discussions and decisions, ensuring alignment in Agile team (Technical Leadership, Architecture)
 - Trained and mentored developers, helping them to grow their skills and advance their careers (Mentoring, Pair Programming)
+
+### Founder - Kigana - _March 2021 - present_
+
+- Designed, implemented and launched a cloud-based childcare management software (Next.js, NestJS, React Native, AWS Lambda, AWS DynamoDB, AWS S3, Auth0, Stripe, Cypress)
+- Managed the product requirements, roadmap and priorities in close collaboration with customers (Requirements Engineering, Product Management, Kanban)
 
 ### Software Engineer - Device Insight GmbH, _Munich, December 2017 - February 2022_
 
