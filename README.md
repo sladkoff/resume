@@ -1,32 +1,62 @@
 [![](https://img.shields.io/badge/PDF-Download-1abc9c?style=for-the-badge)](https://github.com/sladkoff/resume/releases/latest/download/leonid_koftun_resume.pdf) &nbsp; [![](https://img.shields.io/badge/leonidkoftun-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonidkoftun/) &nbsp; [![](https://img.shields.io/badge/sladkovik-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sladkovik) &nbsp; [![](https://img.shields.io/badge/sladkoff2-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sladkoff2/)
 
-# Leonid Koftun
+# Leonid Rousseau
 
-Full-Stack Software Engineer and Technical Lead with 10 years of experience in cloud application development. 
-Proficient in requirements gathering, architecture planning, and leading cross-functional teams for optimal solutions.
+Full-stack software engineer with 10+ years of experience building cloud-native platforms and SaaS products. 
+Experienced in system architecture, backend development, and technical leadership. Founder of Kigana, a childcare management SaaS platform.
 
 [leonid.koftun@gmail.com](mailto:leonid.koftun@gmail.com) // from Munich, Bavaria // speaks English, German, Russian and French
 
+## Core Skills
+
+### Languages & Frameworks
+TypeScript · Node.js · NestJS · Next.js · React Native · Java · Kotlin
+
+### Cloud & Infrastructure
+AWS (Lambda, S3, CloudFront) · Azure (Functions, CosmosDB) · Serverless architectures · Docker · Kubernetes
+
+### Architecture
+Microservices · Event-driven systems · SaaS multi-tenant architecture · REST APIs
+
+### Tools
+Pulumi / Infrastructure as Code · Stripe · Auth0 · Cypress · Kafka · Cassandra · Postgres
+
+### Leadership
+Technical leadership · System design · Mentoring · Requirements engineering · Agile collaboration
+
 ## Professional Experience
 
-### Technical Lead - Device Insight GmbH, _Munich, March 2022 - present_
+### Founder & Technical Lead — Kigana, _Munich, March 2021 – Present_
 
-- Worked closely with stakeholders, collecting, refining and documenting requirements for new IoT Systems (Requirements Engineering, Kanban)
-- Facilitated technical discussions and decisions, ensuring alignment in Agile team (Technical Leadership, Architecture)
-- Trained and mentored developers, helping them to grow their skills and advance their careers (Mentoring, Pair Programming)
+Founded and built a SaaS platform for childcare management used by childcare centers.
 
-### Founder - Kigana - _March 2021 - present_
+- Designed and implemented a full-stack cloud architecture using **Next.js, NestJS, React Native, and AWS**
+- Built a **multi-tenant SaaS platform** including authentication, billing (Stripe), and role-based permissions
+- Implemented operational features including scheduling, attendance tracking, and administrative workflows
+- Managed the product roadmap and collaborated closely with early customers to refine requirements
+- Built and operated production infrastructure including CI/CD and monitoring
 
-- Designed, implemented and launched a cloud-based childcare management software (Next.js, NestJS, React Native, AWS Lambda, AWS DynamoDB, AWS S3, Auth0, Stripe, Cypress)
-- Managed the product requirements, roadmap and priorities in close collaboration with customers (Requirements Engineering, Product Management, Kanban)
+### Technical Lead - Device Insight GmbH, _Munich, March 2022 - September 2025_
+
+Technical lead for industrial IoT projects delivering cloud platforms for enterprise customers.
+
+- Led engineering teams developing **cloud-native IoT systems**
+- Facilitated technical discussions and architectural decisions
+- Collaborated with stakeholders to translate business requirements into technical solutions
+- Mentored developers and supported team growth
 
 ### Software Engineer - Device Insight GmbH, _Munich, December 2017 - February 2022_
 
-- Delivered more than five Industrial IoT projects in the sectors: Automotive, Asset Management and Energy Optimization.
-- Developed event-driven microservice architectures on the Azure Cloud (Azure Functions, Cosmos DB, NodeJS, Typescript, Azure Event Hubs, IaC, Kubernetes, Kafka, Cassandra, Kotlin, Serverless)
-- Innovated deployment and development processes by introducing tools and methodologies (Flux CD, Renovate, Storybook, Durable Functions)
+Backend engineer working on scalable IoT platforms on Microsoft Azure.
+
+- Delivered multiple industrial IoT systems in automotive, asset management, and energy sectors
+- Developed event-driven microservices using **Node.js, TypeScript, Azure Functions, Kafka**
+- Implemented infrastructure automation and CI/CD pipelines
+- Introduced tools improving development workflow and deployment reliability
 
 ### Software Developer - SUBSEQ.NET GmbH, _Munich, October 2013 - November 2017_
+
+Full-stack developer building web applications and mobile apps.
 
 - Created, published and maintained multiple web apps: “insta.vote” (online polls), “ipwatch.dog” (dynamic DNS), “nxt.is” (URL shortener) (Java, Spring Boot, Ebean ORM, Postgres, Vue JS)
 - Led the rewrite of the legacy Android app “fishpixl” and introduced it successfully to the Google Play Store (React Native, Android, Redux)
