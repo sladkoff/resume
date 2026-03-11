@@ -4,6 +4,7 @@
 
 Full-stack software engineer with 10+ years of experience building cloud-native platforms and SaaS products. 
 Experienced in system architecture, backend development, and technical leadership. Founder of Kigana, a childcare management SaaS platform.
+2+ years integrating LLMs into production SaaS: translations, text-to-speech, document summarization, and forecasting.
 
 [leonid.koftun@gmail.com](mailto:leonid.koftun@gmail.com) // from Munich, Bavaria // speaks English, German, Russian and French
 
@@ -17,6 +18,9 @@ AWS (Lambda, S3, CloudFront) · Azure (Functions, CosmosDB) · Serverless archit
 
 ### Architecture
 Microservices · Event-driven systems · SaaS multi-tenant architecture · REST APIs
+
+### AI & LLM
+OpenAI · AWS Bedrock · AWS Polly · document summarization · LLM-powered translations & text-to-speech
 
 ### Tools
 Pulumi / Infrastructure as Code · Stripe · Auth0 · Cypress · Kafka · Cassandra · Postgres
@@ -32,6 +36,8 @@ Founded and built a SaaS platform for childcare management used by childcare cen
 
 - Designed and implemented a full-stack cloud architecture using **Next.js, NestJS, React Native, and AWS**
 - Built a **multi-tenant SaaS platform** including authentication, billing (Stripe), and role-based permissions
+- Integrated **OpenAI, AWS Bedrock, and AWS Polly** for rich-text translations and text-to-speech—removing language barriers between parents and educators
+- Implemented AI-powered document summarization for child development logs, helping educators quickly identify improvement areas and focus points
 - Implemented operational features including scheduling, attendance tracking, and administrative workflows
 - Managed the product roadmap and collaborated closely with early customers to refine requirements
 - Built and operated production infrastructure including CI/CD and monitoring
