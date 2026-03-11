@@ -6,7 +6,7 @@ Full-stack software engineer with 10+ years of experience building cloud-native 
 Experienced in system architecture, backend development, and technical leadership. Founder of Kigana, a childcare management SaaS platform.
 2+ years integrating LLMs into production SaaS: translations, text-to-speech, document summarization, and forecasting.
 
-[leonid.koftun@gmail.com](mailto:leonid.koftun@gmail.com) // from Munich, Bavaria // speaks English, German, Russian and French
+[leonid.rousseau@gmail.com](mailto:leonid.rousseau@gmail.com) // from Munich, Bavaria // speaks English, German, Russian and French
 
 ## Core Skills
 
